@@ -13,7 +13,7 @@
     "php": ">=7.0",
     "ext-dom": "*",
     "sabberworm/php-css-parser": "^8.2",
-    "symfony/css-selector": "^3",
+    "symfony/css-selector": "^3|^4|^5",
     "symfony/dom-crawler": "~3.0|~4.0"
   },
   "autoload": {
